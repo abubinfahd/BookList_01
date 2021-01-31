@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.container h3{
+    font-family: "Poppins", sans-serif;
+    padding-top: 30px;
+}
+.container{
+    font-family: 'Poppins', sans-serif;
+  
+}
+.background{
+    background: url("/images/banner.jpg");
+    background-size: cover;
+    background-position: unset;
+    height: 100vh;
+}
+#submit{
+    color:#111;
+    background-color: aliceblue;
+}
+#submit:hover{
+    background-color: transparent;
+    color: #fff;
+}
+#book-list{
+    color: #fff;
+}
