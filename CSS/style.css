@@ -9,7 +9,7 @@
   
 }
 .background{
-    background: url("/images/banner.jpg");
+    background: url("../images/banner.jpg");
     background-size: cover;
     background-position: unset;
     height: 100vh;
